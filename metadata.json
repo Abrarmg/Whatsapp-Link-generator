@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Link Generator",
+  "description": "Instantly create clean, high-converting WhatsApp chat links with custom pre-filled messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
