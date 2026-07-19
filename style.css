@@ -1,0 +1,16 @@
+/*
+Theme Name: GitHub Deployed Theme
+Theme URI: https://gotautomated.com
+Author: Developer
+Version: 1.0.0
+Description: A custom theme deployed automatically via GitHub webhooks.
+Text Domain: gh-deployed-theme
+*/
+
+/* Add your custom CSS styles below this line */
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
