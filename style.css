@@ -1,16 +1,12 @@
 /*
-Theme Name: GitHub Deployed Theme
-Theme URI: https://gotautomated.com
-Author: Developer
+Theme Name: WhatsApp Link Generator
+Theme URI: https://github.com/Abrarmg/Whatsapp-Link-generator
+Author: Abrarmg
+Author URI: https://github.com/Abrarmg
+Description: Instantly create clean, high-converting WhatsApp chat links with custom pre-filled messages.
 Version: 1.0.0
-Description: A custom theme deployed automatically via GitHub webhooks.
-Text Domain: gh-deployed-theme
+Text Domain: whatsapp-link-generator-theme
 */
 
-/* Add your custom CSS styles below this line */
-body {
-    font-family: sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-}
+/* Add your custom CSS styles below this line if needed */
+
